@@ -5,8 +5,8 @@
     Para que as vms funcionem, é necessário instalar a virtualbox e o vagrant
 #### Comandos para instalar a virtualbox e o vagrant         
 
-<li>sudo apt install vagrant</li>
-<li> sudo apt install VirtualBox-6.1</li>
+- sudo apt install vagrant
+- sudo apt install VirtualBox-6.1
 
 #### Implementando as vms pelo Vagrantfile
     Uma vez que o vagrant esteja instalado, basta colocar as configurações de cada uma das três vms, suas configurações de shell e   os caminhos que elas acessarão.
