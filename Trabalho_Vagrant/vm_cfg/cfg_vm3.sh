@@ -1,6 +1,6 @@
-apt-get update
-apt-get install -y mysql-server mysql-client libmysqlclient-dev
-apt-get install -y net-tools
+sudo apt update
+sudo apt install -y mysql-server mysql-client libmysqlclient-dev
+sudo apt install -y net-tools
 
 sudo ip route del default
 sudo route add default gw 192.168.56.254

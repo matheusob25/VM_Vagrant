@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_shared":{"guestpath":"/vagrant_shared","hostpath":"/home/matheus/VM_Vagrant/Trabalho_Vagrant/vm_cfg","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/matheus/VM_Vagrant/Trabalho_Vagrant","disabled":false,"__vagrantfile":true}}}
